@@ -12,6 +12,10 @@ rules of international draughts in
 This README provides a quick example. The full documentation is at
 [kato-111.github.io/draughts.js](https://kato-111.github.io/draughts.js/).
 
+The same manual is one Markdown file, for a person or an agent:
+
+https://kato-111.github.io/draughts.js/draughts.md
+
 ## Installation
 
 Run the following command to install the most recent version of draughts.js from

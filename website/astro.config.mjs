@@ -18,7 +18,15 @@ export default defineConfig({
       editLink: {
         baseUrl: 'https://github.com/Kato-111/draughts.js/edit/main/website/',
       },
-      sidebar: [{ label: 'Manual', slug: 'index' }],
+      sidebar: [
+        { label: 'Overview', slug: 'index' },
+        { label: 'Installation', slug: 'installation' },
+        { label: 'Rules', slug: 'rules' },
+        { label: 'Notation', slug: 'notation' },
+        { label: 'FEN', slug: 'fen' },
+        { label: 'PDN', slug: 'pdn' },
+        { label: 'API', slug: 'api' },
+      ],
     }),
   ],
 })
